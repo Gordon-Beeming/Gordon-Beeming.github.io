@@ -70,10 +70,15 @@ main > .tagline {
 	height: 2.65rem;
 }
 
-.mvp{
+.badges{
  margin: 1.5rem 0;	
 }
 
+.badges div {
+	display: inline-block;
+	margin-right: 50px;
+   }
+   
 .twitter-links{
 
 }
