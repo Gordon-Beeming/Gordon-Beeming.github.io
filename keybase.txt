@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gordonbeeming
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lazy-developer.xyz
+  * I am gordonbeeming (https://keybase.io/gordonbeeming) on keybase.
+  * I have a public key ASBvyoo5MMv5Bp6tVe_q3-qLXdb-sD6wAqoi0gllINVz_Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120721b910383e887123f8efdcec256b90b4be6e6b717a472cda54f59bcf27584270a",
+      "host": "keybase.io",
+      "kid": "01206fca8a3930cbf9069ead55efeadfea8b5dd6feb03eb002aa22d2096520d573fc0a",
+      "uid": "bd9079dcde70f8f6b3373747e7d0a719",
+      "username": "gordonbeeming"
+    },
+    "merkle_root": {
+      "ctime": 1584634704,
+      "hash": "bf15dd979e2cd8e17d61a5dc8222a6815176e7b4e84fe5ce35d2aeb4d425f2bcd332522e8c2ce27d5d690e7fa207f8832e1284ee49ba2aa5518fd34511b52609",
+      "hash_meta": "59b0eb843ae587d4ef2c83223819045c7961e6d474532bdb4518239f9c47899a",
+      "seqno": 15501568
+    },
+    "service": {
+      "entropy": "14P1mGPSmPJYVR1KXxaeS7PB",
+      "hostname": "lazy-developer.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584634723,
+  "expire_in": 504576000,
+  "prev": "b29033cdc00ab6c21a9956ec46af3af48d2e5d064b513f47a8bdf33b8bc473a9",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgb8qKOTDL+QaerVXv6t/qi13W/rA+sAKqItIJZSDVc/wKp3BheWxvYWTESpcCHcQgspAzzcAKtsIamVbsRq869I0uXQZLUT9HqL3zO4vEc6nEIDNovM2N0J6FdWMgf8tGMnsFFbG3q2rw17g+l5HkNpznAgHCo3NpZ8RAx6eGEukKxo7ZcADzP4hUbnQ6kStbJ0kyJZkvSimzt8dlVUKBiNazsU+ilfS7v2WdhGan0B+ceZo/OheEYgpqB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAVZsDFrCpJ2KT7SbQzuhYqpT8YYox7UGNcxOAeTK0Wio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gordonbeeming
+
+==================================================================
