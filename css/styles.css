@@ -28,6 +28,11 @@ html {
 	}
 }
 
+.icons-social a img{
+	height: 68px;
+	margin: 3px;
+}
+
 .icons-social i {
 	font-size: 3em;
 }
