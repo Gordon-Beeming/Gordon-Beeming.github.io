@@ -33,6 +33,11 @@ html {
 	margin: 3px;
 }
 
+.icons-social a.wide img{
+	width: 136px;
+}
+
+
 .icons-social i {
 	font-size: 3em;
 }
